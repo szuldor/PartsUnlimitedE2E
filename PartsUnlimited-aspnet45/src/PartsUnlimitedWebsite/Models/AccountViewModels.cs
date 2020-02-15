@@ -1,9 +1,9 @@
-﻿//comment
+﻿//comment changed (2)
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Web.Mvc;
 using Microsoft.Owin.Security;
-
+//second comment
 namespace PartsUnlimited.Models
 {
     public class ExternalLoginConfirmationViewModel
