@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿//comment
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Web.Mvc;
 using Microsoft.Owin.Security;
